@@ -1,4 +1,6 @@
 using UnityEngine;
+using ProceduralDungeonShooter.Core;
+using ProceduralDungeonShooter.Enemies;
 
 namespace ProceduralDungeonShooter.Player
 {

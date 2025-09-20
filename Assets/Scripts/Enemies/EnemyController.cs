@@ -1,5 +1,8 @@
 using UnityEngine;
 using UnityEngine.AI;
+using ProceduralDungeonShooter.Player;
+using ProceduralDungeonShooter.Loot;
+using ProceduralDungeonShooter.Core;
 
 namespace ProceduralDungeonShooter.Enemies
 {
